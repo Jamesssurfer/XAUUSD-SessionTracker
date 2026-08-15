@@ -1,1 +1,0 @@
-# XAUUSD-SessionTracker
